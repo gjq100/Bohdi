@@ -51,7 +51,7 @@ conda env create -f opencompass_env.yaml
 ```bash
 # The version we used: opencompass 0.3.4
 git clone https://github.com/open-compass/opencompass opencompass
-cd opencompass
+cd [your project path]/opencompass
 pip install -e .
 ```
 
@@ -76,7 +76,7 @@ To train the target LLM using Bohdi, follow these steps:
 Please first configure the relevant paths in `run_bohdi.sh` according to your actual paths, and then run:
    ```bash
    source activate bohdi
-   cd your project path
+   cd [your project path]/Bohdi
    bash run_bohdi.sh
    ```
 
@@ -84,7 +84,7 @@ Please first configure the relevant paths in `run_bohdi.sh` according to your ac
 We use <a href="https://github.com/open-compass/opencompass/tree/main">OpenCompass</a> for evaluation and perform inference based on VLLM. To evaluate your model, please configure the relevant paths in `eval_opencompass.sh` according to your actual paths, and then run:
 ```bash
 source activate opencompass
-cd your project path
+cd [your project path]/opencompass
 bash eval_opencompass.sh
 ```
 
