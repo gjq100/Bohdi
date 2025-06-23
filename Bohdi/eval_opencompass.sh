@@ -1,7 +1,4 @@
 #!/bin/bash
-source /mnt/workspace/gaojunqi/anaconda3/etc/profile.d/conda.sh
-source activate /mnt/workspace/gaojunqi/anaconda3/envs/opencompass
-cd /mnt/workspace/gaojunqi/sunqingshuai/opencompass
 
 export HF_ENDPOINT=https://hf-mirror.com
 
