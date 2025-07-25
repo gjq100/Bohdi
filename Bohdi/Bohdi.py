@@ -503,7 +503,6 @@ if __name__ == "__main__":
     parser.add_argument('--enlightenment_steps', type=int, default=5, help="Number of steps of enlightenment phase.")
     parser.add_argument('--batch_size_meditation_phase', type=int, default=200, help="Batch size of meditation phase.")
     parser.add_argument('--batch_size_enlightenment_phase', type=int, default=48, help="Batch size of enlightenment phase.")
-    parser.add_argument('--num_loops', type=int, default=50, help="Number of loops.")
     parser.add_argument('--basic_tree_save_path', type=str, default='basic_tree.json', help="Basic tree save path.")
     parser.add_argument('--basic_tree_load_path', type=str, default=None, help="Basic tree load path.")
     parser.add_argument('--step_now', type=int, default=None, help="Num of steps now.")
