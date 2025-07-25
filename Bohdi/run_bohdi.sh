@@ -21,7 +21,6 @@ for ((i=step_now; i<num_loops; i++)); do
             --enlightenment_steps 3 \
             --batch_size_meditation_phase 30 \
             --batch_size_enlightenment_phase 60 \
-            --num_loops 200 \
             --step_now $i \
             --phase_id 'meditation' \
             --thr 0.2 \
@@ -42,7 +41,6 @@ for ((i=step_now; i<num_loops; i++)); do
             --enlightenment_steps 3 \
             --batch_size_meditation_phase 30 \
             --batch_size_enlightenment_phase 60 \
-            --num_loops 200 \
             --step_now $i \
             --phase_id 'enlightenment' \
             --thr 0.2 \
@@ -63,7 +61,6 @@ for ((i=step_now; i<num_loops; i++)); do
             --enlightenment_steps 3 \
             --batch_size_meditation_phase 30 \
             --batch_size_enlightenment_phase 60 \
-            --num_loops 200 \
             --step_now $i \
             --phase_id 'meditation' \
             --thr 0.2 \
@@ -84,7 +81,6 @@ for ((i=step_now; i<num_loops; i++)); do
             --enlightenment_steps 3 \
             --batch_size_meditation_phase 30 \
             --batch_size_enlightenment_phase 60 \
-            --num_loops 200 \
             --step_now $i \
             --phase_id 'enlightenment' \
             --thr 0.2 \
