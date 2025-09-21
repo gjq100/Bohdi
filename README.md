@@ -3,8 +3,11 @@
    
 ![](assets/title.png)
 
+🏆 **NeurIPS 2025 Main Conference Paper**  
+
 [![arXiv](https://img.shields.io/badge/arXiv-2506.15721-b31b1b.svg?style=for-the-badge)](https://arxiv.org/pdf/2506.15721)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge)](https://huggingface.co/ChetKao)
+
 
 _Junqi Gao <sup>1,2</sup>, Zhichang Guo <sup>2</sup>, Dazhi Zhang <sup>2</sup>, Dong Li <sup>1,2 </sup>, Runze Liu <sup>3</sup>, Pengfei Li <sup>2</sup>, Kai Tian <sup>4</sup>, Biqing Qi<sup>1,†</sup>_
 
