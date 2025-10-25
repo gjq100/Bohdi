@@ -9,15 +9,17 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge)](https://huggingface.co/ChetKao)
 
 
-_Junqi Gao <sup>1,2</sup>, Zhichang Guo <sup>2</sup>, Dazhi Zhang <sup>2</sup>, Dong Li <sup>1,2 </sup>, Runze Liu <sup>3</sup>, Pengfei Li <sup>2</sup>, Kai Tian <sup>4</sup>, Biqing Qi<sup>1,†</sup>_
+_Junqi Gao <sup>1</sup>, Zhichang Guo <sup>1</sup>, Dazhi Zhang <sup>1</sup>, Dong Li <sup>1</sup>, Runze Liu <sup>3</sup>, Pengfei Li <sup>1,5</sup>, Kai Tian <sup>4</sup>, Biqing Qi<sup>2,†</sup>_
 
-<sup>1</sup> _Shanghai Artificial Intelligence Laboratory_
+<sup>1</sup> _School of Mathematics, Harbin Institute of Technology_
 
-<sup>2</sup> _School of Mathematics, Harbin Institute of Technology_
+<sup>2</sup> _Shanghai Artificial Intelligence Laboratory_
 
 <sup>3</sup> _Tsinghua Shenzhen International Graduate School, Tsinghua University_
 
 <sup>4</sup> _Department of Electronic Engineering, Tsinghua University_
+
+<sup>5</sup> _Shanghai Innovation Institute_
 
 _<sup>†</sup> Corresponding Author_
 
