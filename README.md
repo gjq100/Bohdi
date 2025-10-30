@@ -5,7 +5,7 @@
 
 🏆 **NeurIPS 2025 Main Conference Paper**  
 
-[![arXiv](https://img.shields.io/badge/arXiv-2506.15721-b31b1b.svg?style=for-the-badge)](https://arxiv.org/pdf/2506.15721)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.15721-b31b1b.svg?style=for-the-badge)](https://arxiv.org/pdf/2506.15721v4)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge)](https://huggingface.co/ChetKao)
 
 
